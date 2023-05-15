@@ -1,2 +1,2 @@
-# springRegacy
-study spring Regacy
+# springLegacy
+study spring Legacy
